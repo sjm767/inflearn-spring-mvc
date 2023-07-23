@@ -15,6 +15,3 @@
 - 스프링 DB 2편 - 데이터 접근 활용 기술: https://github.com/sjm767/inflearn-spring-database-lec-two
 - 스프링 핵심 원리 - 고급편: https://github.com/sjm767/inflearn-spring-core-advanced
 - 실전! 스프링 부트  (출시 예정)
-
-
-initial commit
